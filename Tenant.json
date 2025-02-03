@@ -36,3 +36,40 @@
       }
    ]
 }
+{
+  "title": "Liburan bernuansa alam cuma disini!",
+   "description": "Kita udah cari yang terbaik buat kamu nih",
+   "properties": [
+      {
+        "name": "Hotel Raya",
+        "full_address": "Jl raya no 12 bandung",
+        "city": "Bandung",
+        "slug": "durable-paper-bottle",
+        "total_ratings": 2,
+        "total_reviews": 50,
+        "highlighted_reviews": "Temporibus explicabo quia et.",
+        "max_order_per_day": 2,
+        "status": "Unavailable",
+        "status_translation": "Tidak Tersedia",
+        "working_start_time": "2025-01-01T08:50:23.000Z",
+        "working_end_time": "2025-01-01T20:28:00.000Z",
+        "lowest_price": "1000000.0"
+      },
+      {
+        "name": "Rental Mobil",
+        "full_address": "Jl raya no 12 bandung",
+        "city": "Bandung",
+        "slug": "durable-paper-bottle",
+        "total_ratings": 2,
+        "total_reviews": 50,
+        "highlighted_reviews": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.",
+        "max_order_per_day": 2,
+        "status": "Unavailable",
+        "status_translation": "Tidak Tersedia",
+        "working_start_time": "2025-01-01T08:50:23.000Z",
+        "working_end_time": "2025-01-01T20:28:00.000Z",
+        "lowest_price": "200000.0"
+      }
+   ]
+}
+
