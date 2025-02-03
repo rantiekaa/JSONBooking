@@ -1,75 +1,76 @@
-{
-  "title": "Lorem ipsum dolor sit amet",
-  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis",
-  "galleries": [
-      {
-         "image_url": "https://plus.unsplash.com/premium_photo-1661964071015-d97428970584?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "villa"
-      },
-      {
-         "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "villa"
-      },
-      {
-         "image_url": "https://plus.unsplash.com/premium_photo-1675745329954-9639d3b74bbf?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "villa"
-      },
-      {
-         "image_url": "https://images.unsplash.com/photo-1439130490301-25e322d88054?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "villa"
-      },
-      {
-         "image_url": "https://images.unsplash.com/photo-1517676109075-9a94d44145d1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "car"
-      },
-      {
-         "image_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "car"
-      },
-      {
-         "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-         "tags": "car"
-      },
-      {
-         "image_url": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
-         "tags": "car"
-      }
-   ]
-}
-{
-  "title": "Liburan bernuansa alam cuma disini!",
-   "description": "Kita udah cari yang terbaik buat kamu nih",
-   "properties": [
-      {
-        "name": "Hotel Raya",
-        "full_address": "Jl raya no 12 bandung",
-        "city": "Bandung",
-        "slug": "durable-paper-bottle",
-        "total_ratings": 2,
-        "total_reviews": 50,
-        "highlighted_reviews": "Temporibus explicabo quia et.",
-        "max_order_per_day": 2,
-        "status": "Unavailable",
-        "status_translation": "Tidak Tersedia",
-        "working_start_time": "2025-01-01T08:50:23.000Z",
-        "working_end_time": "2025-01-01T20:28:00.000Z",
-        "lowest_price": "1000000.0"
-      },
-      {
-        "name": "Rental Mobil",
-        "full_address": "Jl raya no 12 bandung",
-        "city": "Bandung",
-        "slug": "durable-paper-bottle",
-        "total_ratings": 2,
-        "total_reviews": 50,
-        "highlighted_reviews": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.",
-        "max_order_per_day": 2,
-        "status": "Unavailable",
-        "status_translation": "Tidak Tersedia",
-        "working_start_time": "2025-01-01T08:50:23.000Z",
-        "working_end_time": "2025-01-01T20:28:00.000Z",
-        "lowest_price": "200000.0"
-      }
-   ]
-}
-
+[
+  {
+    "title": "Lorem ipsum dolor sit amet",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis",
+    "galleries": [
+        {
+           "image_url": "https://plus.unsplash.com/premium_photo-1661964071015-d97428970584?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "villa"
+        },
+        {
+           "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "villa"
+        },
+        {
+           "image_url": "https://plus.unsplash.com/premium_photo-1675745329954-9639d3b74bbf?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "villa"
+        },
+        {
+           "image_url": "https://images.unsplash.com/photo-1439130490301-25e322d88054?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "villa"
+        },
+        {
+           "image_url": "https://images.unsplash.com/photo-1517676109075-9a94d44145d1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "car"
+        },
+        {
+           "image_url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "car"
+        },
+        {
+           "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "tags": "car"
+        },
+        {
+           "image_url": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+           "tags": "car"
+        }
+     ]
+  },
+  {
+    "title": "Liburan bernuansa alam cuma disini!",
+     "description": "Kita udah cari yang terbaik buat kamu nih",
+     "properties": [
+        {
+          "name": "Hotel Raya",
+          "full_address": "Jl raya no 12 bandung",
+          "city": "Bandung",
+          "slug": "durable-paper-bottle",
+          "total_ratings": 2,
+          "total_reviews": 50,
+          "highlighted_reviews": "Temporibus explicabo quia et.",
+          "max_order_per_day": 2,
+          "status": "Unavailable",
+          "status_translation": "Tidak Tersedia",
+          "working_start_time": "2025-01-01T08:50:23.000Z",
+          "working_end_time": "2025-01-01T20:28:00.000Z",
+          "lowest_price": "1000000.0"
+        },
+        {
+          "name": "Rental Mobil",
+          "full_address": "Jl raya no 12 bandung",
+          "city": "Bandung",
+          "slug": "durable-paper-bottle",
+          "total_ratings": 2,
+          "total_reviews": 50,
+          "highlighted_reviews": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et.",
+          "max_order_per_day": 2,
+          "status": "Unavailable",
+          "status_translation": "Tidak Tersedia",
+          "working_start_time": "2025-01-01T08:50:23.000Z",
+          "working_end_time": "2025-01-01T20:28:00.000Z",
+          "lowest_price": "200000.0"
+        }
+     ]
+  }
+]
