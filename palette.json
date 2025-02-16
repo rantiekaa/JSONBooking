@@ -1,0 +1,57 @@
+{
+  "colors": {
+    "earthy_neutral": {
+      "color-10": "#F1E3D3",
+      "color-20": "#6B705C",
+      "color-30": "#C58C6D",
+      "color-40": "#FFFFFF",
+      "color-50": "#121212",
+      "color-60": "197,140,109",
+      "color-70": "245,245,253"
+    },
+    "luxe": {
+      "color-10": "#D1C7BD",
+      "color-20": "#322D29",
+      "color-30": "#72383d",
+      "color-40": "#FFFFFF",
+      "color-50": "#121212",
+      "color-60": "114,56,61",
+      "color-70": "245,245,253"
+    },
+    "bluberry": {
+      "color-10": "#D0E1F9",
+      "color-20": "#46648D",
+      "color-30": "#282655",
+      "color-40": "#FFFFFF",
+      "color-50": "#121212",
+      "color-60": "40,38,85",
+      "color-70": "245,245,253"
+    },
+    "stormy": {
+      "color-10": "#D9E0E6",
+      "color-20": "#A2588F",
+      "color-30": "#695467",
+      "color-40": "#FFFFFF",
+      "color-50": "#121212",
+      "color-60": "105,84,103",
+      "color-70": "245,245,253"
+    },
+    "energy": {
+      "color-10": "#E6E1DD",
+      "color-20": "#899481",
+      "color-30": "#695467",
+      "color-40": "#FFFFFF",
+      "color-50": "#121212",
+      "color-60": "105,84,103",
+      "color-70": "245,245,253"
+    }
+  },
+  "fonts": {
+    "font": {
+      "font_family": "Poppins, serif",
+      "font_size": "1rem",
+      "font_weight": "400",
+      "line_height": "1.5"
+    }
+  }
+}
